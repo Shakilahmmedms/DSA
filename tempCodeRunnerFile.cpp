@@ -1,4 +1,5 @@
-else{
-                if(a.roll > b.roll) return true;
-                else return false;
-            }
+for (auto it = mp.begin(); it != mp.end(); it++)
+    {
+        cout<< it->first<<" "<<it->second<<endl;
+    }
+    
